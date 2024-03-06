@@ -1,5 +1,5 @@
-# Long-MIL
-Long-MIL for WSI analysis with extrapolation positional embedding
+# Rethiking Relative Positional Embedding for WSI
+WSI analysis with extrapolation positional embedding
 
 step1: generate predefined 2-d alibi attention bias matrix by
 ```
