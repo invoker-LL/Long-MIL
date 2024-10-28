@@ -1,5 +1,5 @@
-# LongMIL
-## Version 1. WSI analysis with Alibi-2d positional embedding, supported by xformer.
+## LongMIL
+#### Version 1. WSI analysis with Alibi-2d positional embedding, supported by xformer.
 
 step1: generate predefined 2-d alibi attention bias matrix by
 ```
@@ -12,6 +12,6 @@ step3: replace their WSI model during training by
 ```
 LongMIL.py
 ```
-## Version 2. WSI analysis with our 2d local-global operations, implmented by our chucked attention. (NeurIPS-2024)
+#### Version 2. WSI analysis with our 2d local-global operations, implmented by our chucked attention. (NeurIPS-2024)
 
 codes coming soon.
