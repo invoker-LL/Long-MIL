@@ -1,5 +1,5 @@
 # LongMIL
-WSI analysis with local-global linear attention and extrapolation positional embedding
+Version1. WSI analysis with Alibi-2d positional embedding, supported by xformer.
 
 step1: generate predefined 2-d alibi attention bias matrix by
 ```
